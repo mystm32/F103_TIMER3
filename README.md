@@ -1,4 +1,4 @@
-## F103 TIM3 ʵ��1us��ʱ
+﻿## F103 TIM3 实现1us验时
 
 - Timer Clocks : 60MHZ
 - PSC : 0
